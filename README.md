@@ -1,2 +1,2 @@
-# Francesca-Quebec
+# Bayesian Statistics
 Bayesian Parts
